@@ -6,11 +6,13 @@ barrato:= ~~ ~~
 
 ogni carattere speciale, che é usato anche in Html, per far si' che venga letto come tale, si scrive avanti il backslash \
 es: \<
+
  ...................
 paragrafo in grigio rientrante:= tab tab   opp ```    ```
 per delineare una parte rientrante é suff il tab opp 4 spazi
 
 nuovo paragrafo:= linea vuota
+
  ....................
 
 Capitoli:=
