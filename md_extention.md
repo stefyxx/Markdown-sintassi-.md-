@@ -13,6 +13,10 @@ per delineare una parte rientrante é suff il tab opp 4 spazi
 
 nuovo paragrafo:= linea vuota
 
+linea grigia che separa due blocchi:= underscore underscore underscore underscore
+
+_______________________________
+
  ....................
 
 Capitoli:=
