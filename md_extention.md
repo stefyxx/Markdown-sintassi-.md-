@@ -79,6 +79,7 @@ Tabelle:= |Cella 1|Cella 2|
 
 
  ..................
+ 
 Note a pié pagina:= [^n°]:   (non dimenticare i due punti :)
 
 La posizione della nota nel testo non è rilevante. Markdown la visualizzerà sempre alla fine del documento.
